@@ -190,7 +190,7 @@
       "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
       "click": true,
       "wePlus": {}
-    }，
+    },
     {
       "id": 1,
       "name": "96特殊.av88资源☆",
@@ -250,7 +250,7 @@
      {
       "id": 1,
       "name": "趣播资源",
-      "url": https://www.qbzyz.com/api.php/provide/vod/at/xml",
+      "url": "https://www.qbzyz.com/api.php/provide/vod/at/xml",
       "cate":"短视频,1&&动漫专场,2&&高清无码,3&&国产自拍,4&&精选推荐,5&&欧美大片,6&&日本AV,7&&三级剧情,8&&中文字幕,9",
       "click": true,
       "wePlus": {}
@@ -258,7 +258,7 @@
     {
       "id": 1,
       "name": "花椒资源",
-      "url": https://apihjzy.com/api.php/Seacms/vod/",
+      "url": "https://apihjzy.com/api.php/Seacms/vod/",
       "cate":"精品推荐,20&&国产情色,21&&	网红主播,22&&日本无吗,23&&亚洲有码,24&&中文字幕,25&&欧美情色,26&&美乳巨乳,27&&强奸乱伦,28&&	夢莉少女,29&&制服诱惑,30&&人妻熟女,31&&三级伦理,32&&成人动画,33",
       "click": true,
       "wePlus": {}
