@@ -12,7 +12,7 @@
 1886资源,http://cj.1886zy.co/inc/api.php,不解析
 天空云,https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/,不解析
 88云,http://www.88zyw.net/inc/m3u8.php,不解析
-明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,https://www.2ajx.com/vip.php?url=
+明日资源,http://zy.zcocc.com/api.php/provide/vod/at/xml,解析
 独播库,http://api.dbyunzy.com/api.php/provide/vod/at/xml,不解析
 瑞瑞,http://www.ruiuri.com/api.php/provide/vod/at/xml,不解析
 橘猫,http://www.zitv.cc/api.php/provide/vod/at/xml/,不解析
@@ -38,4 +38,4 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/at/xml,不解析
 花椒资源,https://apihjzy.com/api.php/Seacms/vod/,不解析
 色色资源,http://m.7777688.com/inc/api.php,不解析
 番号资源☆,http://fhapi9.com/api.php/provide/vod/from/fhm3u8/at/xml/,不解析
-老鸭资源https://api.apilyzy.com/api.php/provide/vod/at/xml/不解析
+老鸭资源,https://api.apilyzy.com/api.php/provide/vod/at/xml/,不解析
