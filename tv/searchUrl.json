@@ -292,6 +292,22 @@
     },
     {
       "id": 1,
+      "name": "速播资源",
+      "url": "https://api.suboapi.com/api.php/provide/vod/at/xml",
+      "cate":  "国产自拍,1&&亚洲有码,2&&主播大秀,13&&亚洲无码,14&&欧美激情,15&&中文字幕,16&&成人动漫,20&&三级伦理,21&&日韩经典,22",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "芒果资源",
+      "url": "https://mgzyz1.com/api.php/provide/vod/at/xml/",
+      "cate":  "中字馆,49&&欧美馆,50&&无码馆,51&&国产馆,56&&素人馆,63&&JAV馆,83&&动漫馆,84&&三级馆,85",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
       "name": "美少女资源站测试",
       "url": "https://www.msnii.com/api/json.php",
       "cate":  "",
